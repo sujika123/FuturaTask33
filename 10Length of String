@@ -1,0 +1,9 @@
+How do you find the length of a string s in Python?
+●	length(s)
+●	len(s)
+●	strlen(s)
+●	size(s)
+
+
+Answer
+len(s)

@@ -1,0 +1,9 @@
+What is the correct way to open a file for writing in Python?
+●	 open('filename', 'r')
+●	 open('filename', 'w')
+●	 open('filename', 'a')
+●	 open('filename', 'x'
+
+
+Answer
+open('filename', 'w')
